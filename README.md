@@ -47,9 +47,6 @@ npm run dev
 npm install  
 ```
 
-3. **新建一个文件夹**
-
-<img src="./image/image-20240310203302210.png" alt="image-20240310203302210" style="zoom: 80%;" /> 
 
 然后运行即可
 
