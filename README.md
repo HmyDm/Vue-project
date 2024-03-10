@@ -36,6 +36,8 @@ npm run dev
 
 #### 使用方法：
 
+---
+
 1. **打包下载，然后安装node.js ( 地址如下 )** 
 
 **[Node.js 中文网](https://nodejs.cn/)**
@@ -47,6 +49,9 @@ npm run dev
 npm install  
 ```
 
+3. **删除这个文件夹**
+
+<img src="./image/image-20240310204825315.png" alt="image-20240310204825315" style="zoom:80%;" />  
 
 然后运行即可
 
