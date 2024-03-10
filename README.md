@@ -36,15 +36,24 @@ npm run dev
 
 #### 使用方法：
 
-首先打包下载，然后安装node.js ( 地址如下 ) 
+1. **打包下载，然后安装node.js ( 地址如下 )** 
 
 **[Node.js 中文网](https://nodejs.cn/)**
 
+2. **安装依赖**
+
 ```html
 在下载的本项目的目录下右击--在终端中打开
-npm install   安装依赖
+npm install  
 ```
+
+3. **新建一个文件夹**
+
+<img src="./image/image-20240310203302210.png" alt="image-20240310203302210" style="zoom: 80%;" /> 
 
 然后运行即可
 
 > **npm run dev**
+
+
+
