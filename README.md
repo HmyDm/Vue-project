@@ -8,7 +8,7 @@
 
 ##### 项目首页截图
 
-![监控管理页面](C:\Users\huo\Desktop\image\监控管理页面.png)
+![监控管理页面](image\监控管理页面.png)
 
 ##### 启动项目
 
@@ -19,7 +19,7 @@ npm run dev
 
 ##### 登录页面
 
-![image-20240310181929815](C:\Users\huo\Desktop\image\image-20240310181929815.png) 
+![image-20240310181929815](image-20240310181929815.png) 
 
 ![image-20240310182049022](C:\Users\huo\Desktop\image\image-20240310182049022.png)  
 
